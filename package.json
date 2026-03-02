@@ -1,6 +1,6 @@
 {
   "name": "dld-books",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A community-driven JavaScript dataset of solved Digital Logic Design questions",
   "main": "dld-books-solutions.js",
   "scripts": {
